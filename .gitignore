@@ -13,3 +13,6 @@
 
 /doxygen_docs
 /doxygen.tag
+
+# Ignore the suggested build folder
+/build
